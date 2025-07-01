@@ -16,8 +16,9 @@
 
 I'm a proud contributor to the [**FullBuff**](https://github.com/Full-Buff) organization. Here are some of our exciting projects:
 
-- [**Server-Script**](https://github.com/Full-Buff/Server-Scripts): Setup scripts for our hosted game servers.
+- [**Server-Scripts**](https://github.com/Full-Buff/Server-Scripts): Setup scripts for our hosted game servers.
 - [**static-file-server**](https://github.com/Full-Buff/static-file-server): A customizable static file server that we use for our FastDL server.
+- [**grouped-classlimits**](https://github.com/Full-Buff/grouped_classlimits): An extra layer of control over existing tf_tournament_classlimit_* commands.
 
 ### 🎯 My Goals
 
